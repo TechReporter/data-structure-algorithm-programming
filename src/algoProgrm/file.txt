@@ -1,0 +1,6 @@
+{
+  "skillset" : [ "java", "Reactive spring", "miroservice", "DevOps stack", "apache camel" ],
+  "address" : "Bangalore",
+  "name" : "Tanmoy Dasgupta",
+  "company" : [ "TCS", "AccionLabs", "Standard chartered bank", "GE Transportation", "LinkedIn" ]
+}
